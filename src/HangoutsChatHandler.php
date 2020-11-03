@@ -1,8 +1,7 @@
 <?php
 
-namespace Monolog\Handler;
+namespace Nowyn\Monolog;
 
-use Monolog\Formatter\HangoutsChatFormatter;
 use Monolog\Handler\AbstractProcessingHandler;
 use Monolog\Logger;
 use GuzzleHttp\Client;

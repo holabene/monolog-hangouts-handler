@@ -15,7 +15,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Monolog\\": "src"
+      "Nowyn\\Monolog\\": "src"
     }
   }
 }

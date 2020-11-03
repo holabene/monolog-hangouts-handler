@@ -1,6 +1,6 @@
 <?php
 
-namespace Monolog\Formatter;
+namespace Nowyn\Monolog;
 
 use Monolog\Formatter\FormatterInterface;
 use Monolog\Formatter\LineFormatter;
