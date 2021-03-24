@@ -3,8 +3,8 @@
   "description": "A simple monolog handler for Google Hangouts Chat webhooks",
   "type": "library",
   "require": {
-    "monolog/monolog":"*",
-    "guzzlehttp/guzzle":"*"
+    "monolog/monolog": "*",
+    "guzzlehttp/guzzle": "*"
   },
   "license": "MIT",
   "authors": [
@@ -17,5 +17,9 @@
     "psr-4": {
       "Nowyn\\Monolog\\": "src"
     }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "*",
+    "mockery/mockery": "*"
   }
 }
